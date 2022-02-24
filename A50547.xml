@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the assises for the county of Surrey, held in the burrough of Southwark, March 23, 1681/2 by Richard Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50547</idno>
+            <idno type="STC">Wing M1626</idno>
+            <idno type="STC">ESTC R16983</idno>
+            <idno type="EEBO-CITATION">13640752</idno>
+            <idno type="OCLC">ocm 13640752</idno>
+            <idno type="VID">100897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the assises for the county of Surrey, held in the burrough of Southwark, March 23, 1681/2 by Richard Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[4], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Grover for Thomas Rowe, Jun. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  James I, 25 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100897:1"/>
+            <pb facs="tcp:100897:1"/>
+            <p>A SERMON Preached at the ASSISES For the County of SURREY, Held in the Burrough of <hi>SO<g ref="char:V">Ʋ</g>THWARK, March</hi> 23. 1681/2.</p>
+            <p>BY RICHARD MEGGOTT D. D. Dean of <hi>Wincheſter,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Grover,</hi> for <hi>Thomas Rowe</hi> Jun. in <hi>London</hi>-Yard near the Weſt End of St. <hi>Pauls.</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100897:2"/>
+            <pb facs="tcp:100897:2"/>
+            <head>TO THE RIGHT WORSHIPFUL And My Honoured Friend <hi>PETER DANIEL,</hi> 
+               <abbr>Eſq</abbr> High Sheriff of the County of SURREY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT was not in my Thoughts, that this Diſ<g ref="char:EOLhyphen"/>courſe ſhould have gone farther than them for whom it was prepared; but ſince it was their deſire as well as yours that it ſhould I have ſubmitted: Being preached at your Re<g ref="char:EOLhyphen"/>queſt, Decency requireth it ſhould not come a<g ref="char:EOLhyphen"/>broad but with your Name. Sir I have no reaſon to doubt, but that you are perſwaded of what is here delivered of the <hi>Law of God;</hi>
+               <pb facs="tcp:100897:3"/>and your Actings in this trying Time have ſhown, you have not ſo wild a Notion of <hi>Li<g ref="char:EOLhyphen"/>berty,</hi> as to truſt thoſe high Pretenders, who would be making way to it by overturning the <hi>Laws of Men:</hi> But there are too many who have weak and dangerous Conceptions of theſe things. To rectifie ſuch was the Deſign of this Sermon, wherein I have endeavored to repre<g ref="char:EOLhyphen"/>ſent <hi>Chriſtianity,</hi> as <hi>Jotham</hi> did the <hi>Vine cheering God and Man,</hi> directing and com<g ref="char:EOLhyphen"/>pleating our Behaviour for both Worlds. If any thing in it may prove uſeful, that they who outwardly profeſs the Faith, may ſin<g ref="char:EOLhyphen"/>cerely live according to the Rule of the Goſpel; I ſhall be glad, that by my Compliance in pub<g ref="char:EOLhyphen"/>liſhing it, I have ſhown my ſelf,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your very Affectionate and Humble Servant R. Meggott.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100897:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JAMES 1.25.</hi>
+                  </bibl>
+                  <p>—The perfect Law of Liberty—</p>
+               </q>
+            </epigraph>
+            <p>THE Solemn buſineſs of this time is the ſame with what we read of <hi>Samuel</hi>'s, 1 <hi>Sam.</hi> 7.16. where we find that he <hi>went from year to year in Cir<g ref="char:EOLhyphen"/>cuit to Bethel and Gilgal and Mizpeh, and judged Iſrael in all thoſe places.</hi> This is a laudable imitation of that; and no con<g ref="char:EOLhyphen"/>temptible priviledge it is for a People to have it ſo; to nave Juſtice condeſcend to come to their Doors, and their Wrongs re<g ref="char:EOLhyphen"/>dreſſed, not only uprightly, but ſo con<g ref="char:EOLhyphen"/>veniently.</p>
+            <p>And yet though this be ſo very well, every one muſt grant it were a great deal better there were no occaſion for it, that all men would be ſo honeſt and orderly
+<pb n="2" facs="tcp:100897:4"/>as to ſave the Magiſtrate ſuch labour. It is well there are Fetters and Gibbets for Robbers and Murtherers; but Oh how much better would it be, that ſuch would <hi>labour with their hands the thing that is good, and do violence to no man!</hi> It is well there are Priſons and Remedies for Cheats and ſuch as are unjuſt; but Oh how much better would it be that they would be <hi>righteous in their dealings, and none go beyond or defraud his brother in any matter!</hi> It is well that there are <hi>Actions</hi> and <hi>Damages</hi> for <hi>Scandals</hi> and <hi>Defamations;</hi> but Oh how much better would it be that <hi>all bitterneſs, and clamour, and evil ſpeaking were put away from us,</hi> and that there <hi>were no backbiting!</hi>
+            </p>
+            <p>Fancifull and Eutopian as ſuch imagi<g ref="char:EOLhyphen"/>nations now look to them that know the World, ſo it would be in a <hi>Chriſtian</hi> King<g ref="char:EOLhyphen"/>dom, were we <hi>reall</hi> in this Religion. All ſuch enormities this forbiddeth under ſe<g ref="char:EOLhyphen"/>verer penalties than human Laws are ca<g ref="char:EOLhyphen"/>pable of inflicting; for though every ſin
+<pb n="3" facs="tcp:100897:4"/>againſt God is not injury unto men, yet every injury unto men is a ſin againſt God.</p>
+            <p>And this is that my Diſcourſe at this time ſhall tend to; to evince, that the Goſ<g ref="char:EOLhyphen"/>pel is ſo far from diſpenſing with any of thoſe obligations the light of nature and reaſon lay on us, that it requireth them with more ſtrictneſs; it is a <hi>Law.</hi>
+            </p>
+            <p>Not as Mens, in any thing deficient and incomplete, but wholly faultleſs; it is a <hi>perfect</hi> Law.</p>
+            <p>And that this may not ſeem inconſiſtent with the <hi>Graciouſneſs</hi> of the Diſpenſation, I ſhall ſhew you, that in all this, it is ſo far from being any real Incroachment up<g ref="char:EOLhyphen"/>on our <hi>Freedom,</hi> that is that which beſt ſecureth it; it is a perfect Law of <hi>Liberty.</hi>
+            </p>
+            <p>Theſe are the three particulars which the Text declareth of the Goſpel of Chriſt.</p>
+            <list>
+               <pb n="4" facs="tcp:100897:5"/>
+               <item>Firſt, The <hi>Nature</hi> of it that it is a <hi>Law.</hi>
+               </item>
+               <item>Secondly, The Exactneſs of it, that it is <hi>perfect</hi> Law.</item>
+               <item>Laſtly, the Advantage of it, that it is a Law of <hi>Liberty.</hi>
+               </item>
+            </list>
+            <p>Theſe conſidered, may tend ſomething to the clearing our Apprehenſions not on<g ref="char:EOLhyphen"/>ly about the Authority, the Excellency and the End of this <hi>Royal Law of Chriſt;</hi> but alſo the Neceſſity, Quality, and Obliga<g ref="char:EOLhyphen"/>tion of the ſundry <hi>Laws of Men;</hi> and in purſuance to that I ſhall ſpeak to each of of them.</p>
+            <p>The firſt thing we have here to take no<g ref="char:EOLhyphen"/>tice of, in this Deſcription of the Goſpel, is the <hi>Nature</hi> of it, that it is a <hi>Law.</hi> A <hi>Law!</hi> This ſoundeth a little unuſual, it it is commonly put in Oppoſition to it. The Evangeliſt telleth us, <hi>The Law was
+<pb n="5" facs="tcp:100897:5"/>given by Moſes,</hi>
+               <note place="margin">John 1.17.</note> 
+               <hi>it is Grace and Truth that came by Jeſus Chriſt.</hi> It is true, there is much difference between this <hi>Law</hi> and that of <hi>Moſes;</hi> but yet this is a <hi>Law</hi> too, as well as <hi>that</hi> was. A <hi>Book of Statutes,</hi> to explain and tell us what we ſhould do, and what we ſhould forbear; a <hi>Rule of Life,</hi> to inſtruct and ſhew us the good that we ſhould embrace, and the evil that we ſhould avoid: So it is called <hi>the Law of Faith,</hi> Rom, 3.27. <hi>The Law of the Spirit of Life,</hi> Rom. 8.2. <hi>The Law which we are under to Chriſt,</hi> 1 Cor. 9.21.</p>
+            <p>The Holy Jeſus, as he came into the World <hi>revelare credenda,</hi> to reveal ſaving Truths for our Inſtructions; <hi>tollere peccata,</hi> to make ſatisfactory Attonement for our Tranſgreſſions, <hi>confirmare promiſſa,</hi> to eſtabliſh pretious Promiſes for our Encou<g ref="char:EOLhyphen"/>ragement: ſo likewiſe <hi>promulgare praecepta,</hi> to publiſh ſtrict Rules for our Conver<g ref="char:EOLhyphen"/>sation.</p>
+            <p>
+               <pb n="6" facs="tcp:100897:6"/>
+The reſt of the Creatures are all eaſily ordered, the <hi>Heavens and the Earth</hi> hear God's Voice; the <hi>Winds and the Seas</hi> obey his Call; <hi>Fire and Hail, Snow and Vapors</hi> fulfill his Word; the <hi>Turtle, and the Crane, and the Swallow</hi> know all the times of their coming; but man, man, who in order to fu<g ref="char:EOLhyphen"/>ture Recompences is made a free Agent, a<g ref="char:EOLhyphen"/>buſeth his Will moſt groſly, hath been a croſs and maſterleſs, a moroſe and diſobedi<g ref="char:EOLhyphen"/>ent Creature from his very firſt Creati<g ref="char:EOLhyphen"/>on <hi>Line upon Line, Line upon Line, Precept upon Precept, Precept upon Precept,</hi> hath been all too little to bind him. <hi>Xenophon,</hi> elegantly deſcribing him, obſerveth, Cat<g ref="char:EOLhyphen"/>tle will be kept within their Hedges, Hor<g ref="char:EOLhyphen"/>ſes made tractable by their Riders, Wild Beaſts tamed by them, that look to them,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Xenophon Cyropoed. <hi>l.</hi> 1.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> All theſe (ſaith he) in time, are brought willingly to obey thoſe that look to them; but Men, head-ſtrong Men, ever ſet themſelves againſt thoſe that rule over them, and will not be kept in Compaſs.</p>
+            <p>
+               <pb n="7" facs="tcp:100897:6"/>
+This is ſo true, that God who know<g ref="char:EOLhyphen"/>eth us beſt, did never think fit to truſt us in our own Hands; no, nor only in our Fellow Creatures neither; but himſelf hath given <hi>Laws</hi> to us, from the day that he firſt made us.</p>
+            <p>In the State of <hi>Innocency,</hi> there was a <hi>Law</hi> then. <hi>Adam</hi> had three Precepts given him in Paradiſe, to till the Ground, to cleave to his Wife, and not to eat of the Tree of Knowledge.</p>
+            <p>
+               <hi>Noah,</hi> the Tradition is, had Seven. The Learned conclude the <hi>Council</hi> had an Eye to them in their Determination at <hi>Hieruſalem, Acts</hi> 15.20.</p>
+            <p>
+               <hi>Abraham,</hi> it is ſaid, had Ten, of which the great one was Circumciſion.</p>
+            <p>
+               <hi>Moſes,</hi> if the <hi>Jewiſh</hi> Doctros have reckoned right, had Six hundred and thir<g ref="char:EOLhyphen"/>teen Judicial, Ceremonial and Moral.</p>
+            <p>
+               <pb n="8" facs="tcp:100897:7"/>
+Yea, the ſeemingly neglected <hi>Heathen,</hi> who had none <hi>in Scriptis,</hi> they had a <hi>Law</hi> too: the Apoſtle telleth us, <hi>they ſhewed the work of a Law that was written in their hearts,</hi> Rom. 2.15.</p>
+            <p>And can any imagine that he, who was always from the beginning thus under Tutors and Governours, ſhould now un<g ref="char:EOLhyphen"/>der the beſt and pureſt diſpenſation be let looſe and unbridled? Where there is the ſame nature, can it be ſuppoſed there will not be the ſame need? <note>PLACE="marg" Rom. 3.31</note>
+               <hi>Do we make void the law through faith?</hi> It is St. <hi>Paul's</hi> que<g ref="char:EOLhyphen"/>ſtion upon this occaſion: Some were ſcat<g ref="char:EOLhyphen"/>tering that looſe and peſtilent notion then, but he replyeth to it with all deteſtation, <hi>God forbid! Yea,</hi> ſaith he, <hi>we eſtabliſh the Law.</hi> So far was the Chriſtian faith from that, from <hi>making of it void,</hi> that it added new ſtrength to it.</p>
+            <p>It is granted, our bleſſed Lord made an alteration in the <hi>Law</hi> at his coming, but it
+<pb n="9" facs="tcp:100897:7"/>was only of what was <hi>Ritual</hi> and <hi>Political;</hi> that being <hi>Topical,</hi> and <hi>Temporary</hi> he thought fit to abrogate: but all that was <hi>Natural</hi> and <hi>Moral</hi> as <hi>Oecumenical</hi> and <hi>Eternal,</hi> he au<g ref="char:EOLhyphen"/>thoritatively vindicated and refined. In the firſt Sermon that he Preached, he inſtruct<g ref="char:EOLhyphen"/>ed the World in this, informing them that <hi>he came not to deſtroy the Law, but to fulfill it.</hi> So that ſtill we have a <hi>Law</hi> to walk, by; and if it be asked what kind of Law it is, the <hi>next particular</hi> giveth account of it, where it is declared</p>
+            <p>A <hi>perfect</hi> Law. Laws will always be according to the perſons that make them. <hi>Tyrants</hi> will make <hi>cruel</hi> Laws, <hi>Raſh</hi> men will make <hi>dangerous</hi> Laws, <hi>Good</hi> men will make <hi>equal</hi> Laws, <hi>Wiſe</hi> men will make <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi> Laws. Now this being the Law <hi>of Chriſt,</hi> the wiſdom of the Father, in whom all <hi>fulneſs dwelleth,</hi> cannot but be <hi>perfect</hi> and lacking nothing; ſo it is an exact ſum<g ref="char:EOLhyphen"/>mary of virtue and duty, an adequate in<g ref="char:EOLhyphen"/>ſtrument to keep mankind within his pro<g ref="char:EOLhyphen"/>per limits.</p>
+            <p>
+               <pb n="10" facs="tcp:100897:8"/>
+That this may be the better evidenced (as the ſcantling of time will ſuffer) we will take a particular view of it and conſider it,</p>
+            <list>
+               <item>Firſt, <hi>Intrinſically,</hi> with reference to the matter that is contained in it.</item>
+               <item>Secondly, <hi>Extenſively,</hi> with reference to <hi>Perſons</hi> that are concerned in it.</item>
+               <item>Thirdly, <hi>Comparatively,</hi> with reference to any other Laws that may come in as Rivals in competition with it: and ſee whether upon every of theſe accounts it be not above all exception.</item>
+            </list>
+            <p>Firſt let us conſider it <hi>Intrinſically,</hi> with reference to the <hi>matter</hi> that is contained in it. Where is there a body of Laws be<g ref="char:EOLhyphen"/>ſides, that time and experience hath not found defects in? None of them but have their <hi>caſus omiſſi,</hi> and cunning men upon occaſion can be wicked and miſchie<g ref="char:EOLhyphen"/>vous
+<pb n="11" facs="tcp:100897:8"/>in deſpight of them. The Golden heads of a Kingdom contrive them, and when they have done, ſometimes the very Pet<g ref="char:EOLhyphen"/>ty-toes find ways to elude them. The po<g ref="char:EOLhyphen"/>litick Sinner getteth priviledged places for his iniquity to lodg in, where none of theſe can reach him. But where can we fly from this Law's preſence? Its going forth is from the Heavens, and its Circuit to the ends of the Earth, and there is nothing hid from the heat thereof. It needeth not the Phariſees <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor the Romaniſts <hi>Traditions,</hi> nor the Euthuſiaſts new: <hi>Reve<g ref="char:EOLhyphen"/>lations,</hi> to eeke it out: all that we owe either to God or man is ſufficiently comprehend<g ref="char:EOLhyphen"/>ed in it; nor can we turn either to the right hand or the left, but this layeth hold of us.</p>
+            <p>Human Laws can ſcarcemake clean, as they ſhould, the <hi>outſide of the Cup and the Platter:</hi> Here are many dirty things the beſt of them make no proviſion for: But however this is all rhat they pretend to,
+<pb n="12" facs="tcp:100897:9"/>the <hi>inward part may be full of raevning and wickedneſs</hi> for all that they can do: though that be brimfull of deadly Poiſon, if it ſpill not in ſome overt acts, theſe can take no notice of it. But this taketh in the whole man, it <hi>cleanſeth from all filthineſs both of fleſh and ſpirit,</hi> and is a <hi>diſcerner of the thoughts and intents of the heart.</hi>
+            </p>
+            <p>To all which muſt be added, that every of the things ordained by it are to be ac<g ref="char:EOLhyphen"/>counted for in ſuch a manner, as no kind of artifices can avail the offender. No beſpattering the Evidence, for <hi>our own Con<g ref="char:EOLhyphen"/>ſciences ſhall accuſe us.</hi> No ſtifling of Proofs, for <hi>there is nothing ſecret that ſhall not be made manifeſt.</hi> No packing of Juries, for <hi>the Saints ſhall Judge the World.</hi> No Bills with <hi>Ignoramus,</hi> for <hi>the Books ſhall be opened.</hi> No favouring of Parties, for <hi>every one ſhall receive according to what he hath done.</hi> No miſrepreſenting the Tryals, <hi>as it is written, that thou mighteſt be juſtified in thy ſayings, and clear when thou art Judged.</hi> So <hi>perfect</hi>
+               <pb n="13" facs="tcp:100897:9"/>is this <hi>Law</hi> conſidered <hi>Intrinſically</hi> with re<g ref="char:EOLhyphen"/>ference to the matter that is contained in it. Look upon it,</p>
+            <p>Secondly, <hi>Extenſively,</hi> with reference to the <hi>Perſons</hi> that are concerned in it; and you will find it <hi>perfect</hi> here too. The Net is ſuited to the waters it is caſt into, and there is nothing can ſwim either by or through it. This Law ſpeaketh the Pſal<g ref="char:EOLhyphen"/>miſts Language, Pſal 49.1, 2. <hi>Hear this all ye people, give ear all ye inhabitants of the World, both low and high, rich and poor to<g ref="char:EOLhyphen"/>gether.</hi> Impartial as Death it ſelf</p>
+            <q>—aequo pulſat pede pauperum tabernas regúm<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> turres—</q>
+            <p>It commandeth the Maſter as well as the Servant, and is not more favourable to a <hi>Jezabel,</hi> than to her Hand-maid. It chargeth the Magiſtrate as home as the Subject, and ſpeaketh to the honourable as to the baſe; for there is no reſpect of Per<g ref="char:EOLhyphen"/>ſons.
+<pb n="14" facs="tcp:100897:10"/>It doth not condemn intemperance in the Labourer, but allow it in the weal<g ref="char:EOLhyphen"/>thier Landlord; forbid uncleanneſs in the Cottager, but connive at it in the Modiſh Courtier; threaten Atheiſtical profaneneſs in common People, but applaud it for Wit in men of Titles; puniſh ſpoiling of others in needy Subjects, but adjudge it conqueſt and glory in ambitious Princes. No, as there are none ſo mean as to be overlooked by it, ſo there are none ſo great as to be humoured by it. 'Tis a Law can give an anſwer to <hi>Solomon's</hi> Problem, it will <hi>ſay even to the King what doſt thou?</hi>
+            </p>
+            <p>Yea, it not only reacheth to all <hi>degrees</hi> of men, but to all the <hi>individuals</hi> of every Nation, People, and Language under the Cope of Heaven: whereas all other Laws are confined to their particular Countries and Kingdoms, and have no place in o<g ref="char:EOLhyphen"/>thers; this equally obligeth all, <hi>Parthi<g ref="char:EOLhyphen"/>ans and Medes, and Elamites, and the dwel<g ref="char:EOLhyphen"/>lers in Meſopotamia and Judaea,</hi> &amp;c. it exten<g ref="char:EOLhyphen"/>deth
+<pb n="15" facs="tcp:100897:10"/>from Sea to Sea, and from the Ri<g ref="char:EOLhyphen"/>vers to the ends of the Earth. It is ſent into <hi>all the World,</hi> and to be <hi>Preached to every Creature.</hi> It is not Calculated for this or that Meridian, but our common needs and nature, and that is a ſecond <hi>Perfection.</hi>
+            </p>
+            <p>Once more, Look upon this Law <hi>Com<g ref="char:EOLhyphen"/>paratively,</hi> with reference to any other Laws that may be ſet up as Rivals in competi<g ref="char:EOLhyphen"/>tion with it, and you will find that the faireſt pretenders that can be put in the Scales againſt it, muſt all have a <hi>Tekel</hi> written on them.</p>
+            <p>I will not (after but the little that hath been ſaid already) ſpend your time ſo needleſly as but to point at the many things wherein it excelleth the beſt and wiſeſt Laws of men, (there need no words to prove the Sun is brighter than a Candle;) it not only goeth beyond all theſe, but alſo that which God himſelf once made, that which
+<pb n="16" facs="tcp:100897:11"/>he delivered to the World by the hand of his Servant <hi>Moſes.</hi> Even by that ſome <hi>Statutes</hi> were enjoyned, which in their own nature are expreſly pronounced by the Pro<g ref="char:EOLhyphen"/>phet, <hi>Ezek.</hi> 20.25. <hi>Not good:</hi> others diſ<g ref="char:EOLhyphen"/>penſed with for the hardneſs of their hearts, which in themſelves our Saviour telleth us, <hi>Mat.</hi> 19.8. were not ſo juſtifiable.</p>
+            <p>When the World was in its Childhood, God thought it ſufficient that it ſhould <hi>Speak as a Child,</hi> that it ſhould <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand as a Child,</hi> that it ſhould <hi>Think as a Child,</hi> have but rude and imperfect notices of things: But in <hi>fulneſs of time</hi> then he in<g ref="char:EOLhyphen"/>ſtructed it higher, and taking it off from <hi>Childiſh things,</hi> trained it up in all that per<g ref="char:EOLhyphen"/>fection of which it was capable.</p>
+            <p>It is but too notorious, that there are many things fathered upon this <hi>Law,</hi> weak and unmanly, wild and wicked in a high degree: there are few things ſo abſurd or ſhameful, that ſome wretches have not
+<pb n="17" facs="tcp:100897:11"/>been wreſting Scripture for. <hi>Barbarouſneſs and inhumanity</hi> to all that are not of our our own way, this is juſtifyed for <hi>pure Zeal: Diſpenſing with Oaths,</hi> and <hi>Depoſing of Kings</hi> when they are not for our turn; this is maintained for <hi>Church Authority: Perfidiouſneſs and breach of Faith</hi> with thoſe we call Hereticks, this is vindicated for <hi>Chriſtian prudence: diſturbing the World and taking up Arms upon pretence of Religion,</hi> this is Preached up for <hi>Goſpel Reformation: do<g ref="char:EOLhyphen"/>ing Evil,</hi> and uſing indirect means, ſo it be for a <hi>good end,</hi> this is aſſerted for the Saints Priviledge: being <hi>Buſie-bodies,</hi> and <hi>not abiding in thoſe callings wherein they are called of God,</hi> this is pretended the <hi>Motions of the Spirit.</hi>
+            </p>
+            <p>But why ſhould any ſuch miſ-ſhapen Brats be laid at its door? the Religion hath been often canvaſſed, and that nar<g ref="char:EOLhyphen"/>rowly, by ſuch as <hi>Libanius, Porphyry, Lucian, Julian,</hi> men that wanted neither Wit nor Malice; who would not have failed to
+<pb n="18" facs="tcp:100897:12"/>have charged ſuch things home upon it, had there been the leaſt ground for it. And yet not any of them, but how bold ſoever they made with the Speculative, as to the practical part of it, were forced to paſs the ſame Sentence in effect that <hi>Pilate</hi> did upon its Author, <hi>we find no fault in it;</hi> which cannot be ſaid of any other Laws that have been Publiſhed to the World, not the very exacteſt, and that is another thing that ſpeaketh its <hi>perfection.</hi>
+            </p>
+            <p>
+               <hi>Mathias a Michou,</hi> ſaith the reaſon why the <hi>Tartars</hi> received Mahometiſm and not Chriſtianity, was becauſe the <hi>Saracens</hi> per<g ref="char:EOLhyphen"/>ſwaded them that that Religion was the more pleaſing and indulgent. It may be the high perfection of its Laws may not only offend ſtrangers, but make even ſome that profeſs it ſtartled, and ask where then is the eaſineſs of Chriſts Yoke, if we are under ſuch a <hi>Law</hi> now? To remove there<g ref="char:EOLhyphen"/>fore all prejudices that may ariſe in you from corrupt and idle Fancies upon that
+<pb n="19" facs="tcp:100897:12"/>Soore, paſs on to the laſt particular in its Character: and there you will find, that ſevere as it is, ſo far is it from really in<g ref="char:EOLhyphen"/>croaching upon our <hi>Liberty,</hi> that it is that which beſt ſecureth it. This <hi>perfect Law</hi> it is</p>
+            <p>A <hi>Law of Liberty. Liberty</hi> is a Popu<g ref="char:EOLhyphen"/>lar word, the very ſound of it we find is charming, and will work wonders. Make people but believe it is for <hi>Liberty</hi> in <hi>Civil</hi> affairs, and Incendiarys ſhall be magnified for deſerving Patriots. Do but pretend it is for <hi>Liberty</hi> in <hi>Religious</hi> matters, and A<g ref="char:EOLhyphen"/>theiſtical men ſhall be celebrated for true Proteſtants. Argue but for <hi>Liberty</hi> in <hi>filthy</hi> and <hi>abominable</hi> things, and ſuperfi<g ref="char:EOLhyphen"/>cial youngeſters ſhall be admired for no<g ref="char:EOLhyphen"/>table head-pieces</p>
+            <p>But it looketh very ſtrange to find it coupled with <hi>Law</hi> here, they who can be brought to think they ſhall find it in the unlikelieſt places beſides, that can be named
+<pb n="20" facs="tcp:100897:13"/>to them, imagine it incredible that it ſhould dwell here. They may be perſwaded it is in <hi>Vice,</hi> in <hi>Error,</hi> in <hi>Anarchy;</hi> but that it ſhould be in <hi>Law,</hi> looketh meer contra<g ref="char:EOLhyphen"/>diction to them. The <hi>Law</hi> that tyeth up, <hi>Liberty</hi> letteth looſe; the <hi>Law</hi> imply<g ref="char:EOLhyphen"/>eth reſtraint, <hi>Liberty</hi> is to be without con<g ref="char:EOLhyphen"/>troll.</p>
+            <p>In this ſence indeed the little-thinking heap moſt commonly underſtand it: but we are generally guilty of wild <hi>Miſnamers,</hi> and do not call things by their proper names; if we did, we could never imagine theſe two inconſiſtent: So far it is from that, they cannot well be aſunder. For though it may be poſſible for <hi>Law</hi> to be where there is no <hi>Liherty:</hi> yet it is utterly impoſſible for <hi>Liberty</hi> to be where there is <hi>no Law.</hi> Then we ſhould be ſlaves to all other mens luſts as well as our own, and Beaſts would be leſs dreadful than our Neighbours.</p>
+            <p>
+               <pb n="21" facs="tcp:100897:13"/>
+Laws there muſt be to provide againſt this, and then they attain their true end, when they protect from all other evils, and are none themſelves. Now of all the <hi>Laws</hi> the World was ever bleſſed with, none for that, like <hi>Chriſtianity.</hi> It is ſuch an inſti<g ref="char:EOLhyphen"/>tution as ſecureth us againſt all manner of miſchiefs and inconveniences; not, as ſome<g ref="char:EOLhyphen"/>times it is with mens, by methods almoſt as troubleſome and vexatious, but ſuch as are ſweet, unexceptionable, and deſireable.</p>
+            <p>That it may appear to be indeed what it is called, and that this taking title is not miſ<g ref="char:EOLhyphen"/>applyed to <hi>it,</hi> (not to mention ſuch things as may not be ſo ſuitable to this occaſion, though they are to the argument) I ſhall ſpeak to ſome particulars wherein it deſer<g ref="char:EOLhyphen"/>veth this name, and ſhew,</p>
+            <list>
+               <item>1. That in the <hi>Precepts</hi> of it.</item>
+               <item>2. That in the <hi>Mildneſs</hi> of it,</item>
+               <item>
+                  <pb n="22" facs="tcp:100897:14"/>
+3. That in the <hi>effects</hi> of it, it is a <hi>Law</hi> of <hi>Liberty.</hi>
+               </item>
+            </list>
+            <p n="1">1. A Law of <hi>Liberty</hi> it is in the <hi>Pre<g ref="char:EOLhyphen"/>cepts</hi> of it, the things which it doth enjoyn. It is not a diſpenſation of carnal <hi>beggarly Elements,</hi> as St. <hi>Paul,</hi> a bundle of <hi>cumber<g ref="char:EOLhyphen"/>ſom coſtly Ordinances,</hi> as St. <hi>Auguſtine,</hi> call<g ref="char:EOLhyphen"/>eth the Jewiſh Oeconomy, which this Law hath ſet us free from: No, <hi>It hath ſeemed good to the Holy Ghoſt to lay upon us no grea<g ref="char:EOLhyphen"/>ter Burthen than of neceſſary things.</hi> The Way is pleaſant, the Yoke is eaſie, the Commandments are not grievous, like Feathers to the Wings of a Bird, not Loads, but Helps to Motion.</p>
+            <p>We picture Liberty in our Fancies, as <hi>Tully</hi> ſaith <hi>Clodius</hi> did in his Summer-houſe, not as a <hi>Virgin,</hi> but a <hi>Strumpet,</hi> proſtitute to all Extravagancies, Degrade themſelves into the manners of Beaſts, remove the Land<g ref="char:EOLhyphen"/>marks of the Law of Nature, do thoſe things, and glory in them, that a good
+<pb n="23" facs="tcp:100897:14"/>natur'd Heathen would be aſhamed and bluſh at; This the <hi>Debochee</hi> calleth the <hi>Liberty of the Creature.</hi> Be Sons of <hi>Be<g ref="char:EOLhyphen"/>lial</hi> to all Authority, deſpiſe Dominions, in ſpeaking evil of Dignities, change Times and Laws in Tumults. This the Sediti<g ref="char:EOLhyphen"/>ous calleth the <hi>Liberty of the Subject.</hi> Sow Soul and State diſturbing Opinions, erect Publick Houſes, for ſeducing the unſtable, ſeparate from the National Church; but joyn in Communion with none at all: This the Schiſmatick calls <hi>Liberty of Con<g ref="char:EOLhyphen"/>ſcience.</hi> Amuſe the People with things out of their Sphere, Be-libel Superiors to the jealous Rabble, blow upon the Re<g ref="char:EOLhyphen"/>putation of all that ſtand in the way of their Faction: This the Turbulent calleth <hi>Liberty of the Preſs.</hi>
+            </p>
+            <p>Such <hi>uſing of Liberty as an occaſion to the Fleſh,</hi> it is confeſſed this Law doth not allow of; but how cauſeleſly doth that Child complain of his Fathers Harſhneſs, who hath nothing elſe to ſay of him, but
+<pb n="24" facs="tcp:100897:15"/>that he will not let him fly in his Face, or fall into the Fire, or beat his Brother? Abſtain but from theſe, from diſhonoring of God, from wronging our Neighbours, from ruining our ſelves; and there is no<g ref="char:EOLhyphen"/>thing elſe we are debarred from.</p>
+            <p>The <hi>Bedlam</hi> hath as much reaſon to re<g ref="char:EOLhyphen"/>ſent his Keeper, as we the Severity of the Divine Commands. What do they re<g ref="char:EOLhyphen"/>quire of us, but what is rational, decorous, and perfective of our Being? Nothing but what a wiſe ingenious Man in his deliberate Thoughts would choſe, if there were nei<g ref="char:EOLhyphen"/>ther Heaven nor Hell. Our Chains are Bracelets, and our Fetters Ornaments, our Obligations Priviledges, and we free in the midſt of all theſe precepts, as the Head of a Prince within the Circle of his Crown.</p>
+            <p>Such a <hi>Liberty</hi> as the Spirits of juſt men made perfect have; ſuch a <hi>Liberty as</hi> the Angels before the Throne have, yea ſuch
+<pb n="25" facs="tcp:100897:15"/>a <hi>Liberty</hi> as the Eternal God himſelf hath (none of theſe have a Liberty to do evil) ſuch a Liberty is allowed us. That is one thing that ſpeaketh this Law a Law of <hi>Liberty,</hi> it is ſo in the precepts of it. Be<g ref="char:EOLhyphen"/>ſides this,</p>
+            <p n="2">2. A <hi>Law of Liberty</hi> it is in the <hi>mildneſs</hi> of it. It is tender and very favourable even to them that offend and come ſhort of it. It is not like the Laws of <hi>Draco</hi> written in Letters of Blood but Gold. The <hi>Law of the Goſpel</hi> as it is a <hi>Rule,</hi> is (as hath been ſaid) ſtricter than the Law of <hi>Moſes,</hi> but then conſider it as it is a <hi>Covenant,</hi> and ſo it is not ſo ſtrict; for though the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be not performed, yet there is an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that ſhall be accepted. That which I may call the <hi>Statute Law</hi> of it, indeed is ſo pure that it caſteth us for every infirmi<g ref="char:EOLhyphen"/>ty; but that there is a <hi>Chancery</hi> ſo kind, it will relieve us, if there be ſincerity.</p>
+            <p>
+               <pb n="26" facs="tcp:100897:16"/>
+               <hi>If thou wilt be extream to mark what is done amiſs, O Lord, who may abide it?</hi> what would be the condition of the beſt of men, <hi>if curſed were every one that continueth not in all things, that are written in the book of this Law to do them!</hi> but it hath com<g ref="char:EOLhyphen"/>paſſion on our frailties, and remembreth whereof we are made: and that ſo, as not only to make allowances for our weak<g ref="char:EOLhyphen"/>neſs when we imperfectly keep it, but to accept of our repentance, when we have wilfully broke it.</p>
+            <p>And is this after the manner of men? do they provide ſuch Cities of refuge for their offenders to fly to? will a <hi>nolle factum,</hi> a moral revocation, be it never ſo hearty, ſerve the turn there? No though it may in ſome Caſes be favour<g ref="char:EOLhyphen"/>ably conſidered, as to the execution of the Sentence; it cannot in any be legally pleaded in arreſt of Judgment. But here it humbly may, inſomuch that when we are ſo qualified, the Apoſtle ſpeaking of it,
+<pb n="27" facs="tcp:100897:16"/>1 <hi>John</hi> 1.9. doth not ſay God is <hi>gracious and mercifull</hi> (though that he is infinitely in it too) but he is <hi>faithfull and juſt to for<g ref="char:EOLhyphen"/>give us our ſins, and to cleanſe us from all un<g ref="char:EOLhyphen"/>righteouſneſs.</hi>
+            </p>
+            <p>And is it poſſible for a Law to be more indulgent than this? Would you not bluſh to deſire more <hi>Liberty</hi> than ſo? He that delivered it hath procured by the price of his own Blood, that none but the obſti<g ref="char:EOLhyphen"/>nate and impenitent ſhall ſuffer under it. Not only when we do well it rewardeth us, but even when we have done ill, <hi>it ſpa<g ref="char:EOLhyphen"/>reth us as a father ſpareth his own ſon that ſerveth him.</hi> That is another thing that ſpeaketh it a <hi>Law of Liberty,</hi> it is ſo in the Mildneſs of it. And</p>
+            <p n="3">3. A <hi>Law of Liberty</hi> it is, in the <hi>Effects</hi> of it. I mean not now thoſe powerful ef<g ref="char:EOLhyphen"/>fects, which by the operation of the ſpirit that goeth along with it, it hath within, upon the hearts of men; but thoſe happy
+<pb n="28" facs="tcp:100897:17"/>effects which by the wiſdom of its injuncti<g ref="char:EOLhyphen"/>ons, it hath without, upon the affairs of men. It procureth <hi>Liberty</hi> where it is o<g ref="char:EOLhyphen"/>beyed, and all the World would be at eaſe and free were it but ſubmitted to.</p>
+            <p>They that would inſinuate as if Reli<g ref="char:EOLhyphen"/>gion were nothing elſe but a device of Stateſmen to keep the World in quiet, grant thus much however, in their baſe Suggeſtion, that it is excellently uſeful for ſuch a purpoſe.</p>
+            <p>Every one muſt be convinced of this that but obſerveth how carefully it circula<g ref="char:EOLhyphen"/>teth through the <hi>Civil</hi> body, as the blood doth through the <hi>natural,</hi> quickning every ſeveral member in its office: preſcribing and eſtabliſhing to Princes and their people, Judges and their Clients, Husbands and Wifes, Parents and their Children, Ma<g ref="char:EOLhyphen"/>ſters and their Servants, all of all degrees, that which is mutually beſt for all.</p>
+            <p>
+               <pb n="29" facs="tcp:100897:17"/>
+The Rules of it are ſo framed for gene<g ref="char:EOLhyphen"/>ral and publick good, that they who would be free from them themſelves, think it ne<g ref="char:EOLhyphen"/>ceſſary they ſhould be obſerved by every body elſe: and were they conſcientiouſly practiſed by all, there could be no complain<g ref="char:EOLhyphen"/>ing in our Streets.</p>
+            <p>The <hi>Juſtice</hi> and <hi>Equity</hi> which it doth require, would prevent all <hi>Oppreſſion, Rob<g ref="char:EOLhyphen"/>berys,</hi> and ſafer <hi>Couſenage.</hi> Its <hi>Meekneſs</hi> and forgiving of injuries reſtrain all <hi>Cruel<g ref="char:EOLhyphen"/>ties, Duels,</hi> and unneceſſary <hi>Law Suits.</hi> Its <hi>Truth</hi> and <hi>Sincerity</hi> baniſh all <hi>Lying, Falſhood,</hi> and Judicial <hi>Perjuries.</hi> Its <hi>Self-denyal</hi> and <hi>Contentment</hi> extirpate all <hi>Covetouſneſs, Pride,</hi> and dangerous <hi>Ambition.</hi> Its <hi>Charity</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> cure all <hi>Sects, Animoſities</hi> and in<g ref="char:EOLhyphen"/>creaſing <hi>Diviſions.</hi> Its <hi>Induſtry</hi> and <hi>dili<g ref="char:EOLhyphen"/>gence in our Callings</hi> take away all <hi>Idleneſs, Beggery</hi> and Capricious <hi>Prodigality.</hi> Its <hi>So<g ref="char:EOLhyphen"/>briety and Chaſtity</hi> hinder all <hi>Adulterys, Baſ<g ref="char:EOLhyphen"/>tardys,</hi> and ſo faſhionable <hi>Fornication.</hi> Its <hi>Loyalty</hi> and <hi>Obedience to Superiors,</hi> ſecure
+<pb n="30" facs="tcp:100897:18"/>againſt all <hi>Treaſons, Rebellion,</hi> and moſt plauſible <hi>Sedition.</hi> In ſhort, all things that render men injurious or dangerous, burthen<g ref="char:EOLhyphen"/>ſome or offenſive to one another, it pro<g ref="char:EOLhyphen"/>videth againſt ſo effectually, that nothing could be wiſhed more, but the careful keeping of it to make all the Sons of <hi>Adam</hi> happy.</p>
+            <p>And it being ſuch a <hi>Law,</hi> as not only taketh care of the eternal happineſs of their Souls in the other World, but preſerveth ſo carefully, the Perſons, the Eſtates, the Credit, the Families of men, from all that ſhould prejudice them, even in this, none but muſt conclude it deſerveth the high Elogium here beſtowed upon it, and is in<g ref="char:EOLhyphen"/>deed a <hi>Perfect Law of Liberty.</hi>
+            </p>
+            <p>I ſhall therefore now conclude with this natural Inference from the whole, <hi>That Religion is the ſtrongeſt and beſt ſupport of Civil Government.</hi>
+            </p>
+            <p>
+               <pb n="31" facs="tcp:100897:18"/>
+Where is, where can there be, any juſt and wholſome Law of man, that is not at leaſt virtually comprehended in this perfect Law of God? The <hi>Malmsbury</hi> Philoſopher need not have been ſo fond of the Whimſie, as to have put it into more than one of his Writings, <hi>That it is fit there ſhould be as many Statute Books Printed as Bibles,</hi> and that they ſhould be read in the Churches, as <hi>Moſes</hi> was in the Syna<g ref="char:EOLhyphen"/>gogue every Sabbath day. The divine Statutes faithfully and ſolidly explained, will ſave the labour of ſo very unſeaſo<g ref="char:EOLhyphen"/>nable a Publication. For beſides a higher, they ſerve this purpoſe alſo; and in what<g ref="char:EOLhyphen"/>ſoever tendeth to the peace and order, the preſervation and proſperity of human So<g ref="char:EOLhyphen"/>ciety, ſpeak the ſame things with them. Not in particular, that is not to be expected. If every thing of that kind, among all Na<g ref="char:EOLhyphen"/>tions, ſhould be expreſly ſet down in holy Scripture (to uſe St <hi>Johns</hi> Language) <hi>I ſuppoſe that even the World it ſelf could not
+<pb n="32" facs="tcp:100897:19"/>contain the Books that ſhould be Written:</hi> but in the general they do; injoyning the Principles upon which they are founded, and for the ſeveral inſtances, remitting every one to the Laws of their own Country, command<g ref="char:EOLhyphen"/>ing us to <hi>be ſubject to every ordinance of man for the Lords ſake.</hi>
+            </p>
+            <p>So that if men were but <hi>good Chriſtians,</hi> they would be <hi>good Subjects, good Officers, good Neighbours, good</hi> in every ſtation that God ſhall place them in.</p>
+            <p>And when theſe are the benefits and happy fruits of it, let it not be thought af<g ref="char:EOLhyphen"/>fected or immodeſt, if here I break forth into the Pſalmiſts Apoſtrophe, <hi>Be wiſe now therefore O ye Kings, be inſtructed ye. Judges of the Earth.</hi> And affirm it is not only the duty but even the intereſt of the higher powers to uphold and give it coun<g ref="char:EOLhyphen"/>tenance. There is nothing ſo facilitateth the Magiſtrates Office, and prepareth the way for his Authority; this maketh men
+<pb n="33" facs="tcp:100897:19"/>to be a <hi>Law to themſelves,</hi> and obey hu<g ref="char:EOLhyphen"/>mane ordinances, <hi>not only for wrath, but alſo for Conſcience ſake.</hi>
+            </p>
+            <p>It cannot be denyed but that the pre<g ref="char:EOLhyphen"/>tences of this excellent Religion have wrought no ſmall confuſions on the Earth, but I hope the Religion it ſelf ſhall not be prejudiced becauſe of this, any more than you will ſuffer the lawfull Mony of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to be Cryed down or Clipped, becauſe there is ſome that is counterfeit. The Hy<g ref="char:EOLhyphen"/>pocritical pretences of it, are not more miſ<g ref="char:EOLhyphen"/>chievous to a State, but ſound and pure Religion is as beneficial.</p>
+            <p>And ſuch is that profeſſed in this <hi>Eſta<g ref="char:EOLhyphen"/>bliſhed Church</hi> of ours. A <hi>Church</hi> that doth not ſlight Second Table Duties as <hi>Legal Preaching,</hi> or <hi>Heatheniſh Morality:</hi> but teacheth its members to <hi>have always Conſci<g ref="char:EOLhyphen"/>ences void of offence as towards God, ſo towards men.</hi> A Church that doth not place the <hi>Sprit</hi> of the <hi>Goſpel</hi> in <hi>praying extempore</hi> and
+<pb n="34" facs="tcp:100897:20"/>inveighing againſt ceremonies: but <hi>in love, joy, peace, long-ſuffering, gentleneſs, goodneſs.</hi> A Church that doth not flatter men as <hi>Saints</hi> and <hi>godly</hi> for <hi>profeſſing themſelves of her way:</hi> but teſtifyeth that the <hi>Kingdom of God is not meat and drink but righteouſneſs.</hi> A Church that doth not jugle in the <hi>Do<g ref="char:EOLhyphen"/>ctrine of obedience to Magiſtrates, reſerving fly diſtinctions</hi> for <hi>deſerting</hi> or <hi>reſiſting</hi> them: but ſo Loyal, that upon that very ſcore (you know) it was once ruined, and is at this day maligned and heaved at, by as many as are given to change. And what can tend more to the quiet and welfare, the ſettlement and benefit of a People, than ſuch honeſt and ſober, pious and prudent principles?</p>
+            <p>Now when the Church is ſo aſſiſtant to the Tranquility of the State: for a recom<g ref="char:EOLhyphen"/>pence in the ſame, (I ſpeak as unto wiſe men) let the State be as aſſiſtant to the tran<g ref="char:EOLhyphen"/>quility of the Church. When the Reli<g ref="char:EOLhyphen"/>gion
+<pb n="35" facs="tcp:100897:20"/>is ſuch a faithful ſupport to the Civil Government, let the Civil Government be as faithful a ſupport to the Religion.</p>
+            <p>So as God ordained of old, <hi>The people ſhall be lead like a flock by the hand of Moſes and Aaron,</hi> and all of all conditions happy, in the <hi>wholſome Laws of the land,</hi> and <hi>the perfect Law of Liberty.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
